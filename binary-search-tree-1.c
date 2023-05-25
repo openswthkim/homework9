@@ -38,7 +38,7 @@ int main()
 	int key; // 정수형 변수 선언
 	Node* head = NULL; // Node 포인터 변수 head 선언 후 초기화
 	Node* ptr = NULL;	/* temp */ //Node 포인터 변수 ptr 선언 후 초기화
-
+        printf("[----- [Taehyung Kim] [2020039024] -----]");
 	do{
 		printf("\n\n");
 		printf("----------------------------------------------------------------\n");
